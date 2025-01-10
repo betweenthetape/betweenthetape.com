@@ -1,28 +1,15 @@
 ---
-title: "Mountain Bike Research Lab"
+title: "Mountain Bike Analytics"
 image: "logo.png"
 links:
-  - label: GitHub
-    url: "https://github.com/betweenthetape"
   - label: Email
     url: "mailto:info@betweenthetape.com"
+  - label: GitHub
+    url: "https://github.com/betweenthetape"
+  - label: Vital MTB
+    url: "https://www.vitalmtb.com/"
 output:
-  postcards::trestles
+  postcards::jolla
 ---
- 
-## Intro
 
-Between the Tape is a small mountain bike research lab conducting data driven mountain bike journalism. All our methods, data, and code are open-source.
-
-## Articles
-
-- [Are Lower Tire Pressures Faster?](https://betweenthetape.github.io/tire-pressures/): an experiment to assess how mountain bike tire pressures effect performance.
-- What Could Have Been: simulating the 2024 DH World Cup season, without mistakes.
-
-## Projects
-
-- [downhillr](https://github.com/betweenthetape/downhillr): an R package that scrapes, cleans, and exports downhill mountain bike race results.
-
-## Have questions?
-
-Reach out via email.
+We use data to answer interesting questions from bike set up (e.g., what tire pressure should I run?) to the World Cup Downhill performance (e.g., who has the highest raw speed?). All our methods, data, and code are open-source. Currently partnering with VitalMTB.
