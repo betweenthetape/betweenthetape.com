@@ -1,15 +1,15 @@
 ---
-title: "Mountain Bike Analytics"
+title: "MTB Analytics"
 image: "logo.png"
 links:
-  - label: Email
+  - label: Contact us
     url: "mailto:info@betweenthetape.com"
   - label: GitHub
     url: "https://github.com/betweenthetape"
-  - label: Vital MTB
+  - label: Articles
     url: "https://www.vitalmtb.com/"
 output:
   postcards::jolla
 ---
 
-We use data to answer interesting questions from bike set up (e.g., what tire pressure should I run?) to the World Cup Downhill performance (e.g., who has the highest raw speed?). All our methods, data, and code are open-source. Currently partnering with VitalMTB.
+Using data to better understand mountain biking. All our methods, data, and code are open-source.
